@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Module-6-Project/static/css/main.6bbdc25b.css",
+    "main.js": "/Module-6-Project/static/js/main.e6d59618.js",
+    "static/js/453.fd5dc67f.chunk.js": "/Module-6-Project/static/js/453.fd5dc67f.chunk.js",
+    "static/media/planet.png": "/Module-6-Project/static/media/planet.d642aa5e5f12c125450a.png",
+    "static/media/logo.png": "/Module-6-Project/static/media/logo.28661e7a2a2e30cef008.png",
+    "static/media/episodes.png": "/Module-6-Project/static/media/episodes.f8536250baf1a1f4785d.png",
+    "static/media/Total_Rickall.png": "/Module-6-Project/static/media/Total_Rickall.546637ccaa3059077167.png",
+    "static/media/AnatomyPark.png": "/Module-6-Project/static/media/AnatomyPark.0313e89a49c0562c16a5.png",
+    "static/media/MeeseeksandDestroy.png": "/Module-6-Project/static/media/MeeseeksandDestroy.44a707e43e1d09c52b00.png",
+    "static/media/C-137.png": "/Module-6-Project/static/media/C-137.db88ce0273d6543e8af7.png",
+    "static/media/Citadel.png": "/Module-6-Project/static/media/Citadel.926bd918abf44224c1b3.png",
+    "static/media/split.jpg": "/Module-6-Project/static/media/split.5b2a1518b4d2f57449ba.jpg",
+    "static/media/runningportal.jpg": "/Module-6-Project/static/media/runningportal.ce183b2e2b32e8601da3.jpg",
+    "static/media/opposite.png": "/Module-6-Project/static/media/opposite.cab6417363320040d6e4.png",
+    "static/media/names.png": "/Module-6-Project/static/media/names.42c8df0b92603ef2e2e2.png",
+    "static/media/about.jpg": "/Module-6-Project/static/media/about.abfd0f1e084c97fca46e.jpg",
+    "static/media/rick-morty-characters.jpg": "/Module-6-Project/static/media/rick-morty-characters.3e405193011ce697227e.jpg",
+    "static/media/PickleRick.png": "/Module-6-Project/static/media/PickleRick.1798d3e0117326db62dd.png",
+    "static/media/Rick And Morty Animation.jpeg": "/Module-6-Project/static/media/Rick And Morty Animation.28a112da4bb160fa0248.jpeg",
+    "static/media/api.png": "/Module-6-Project/static/media/api.9a975f72f03c2803e816.png",
+    "static/media/slick.svg": "/Module-6-Project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Module-6-Project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Module-6-Project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Module-6-Project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Module-6-Project/index.html",
+    "main.6bbdc25b.css.map": "/Module-6-Project/static/css/main.6bbdc25b.css.map",
+    "main.e6d59618.js.map": "/Module-6-Project/static/js/main.e6d59618.js.map",
+    "453.fd5dc67f.chunk.js.map": "/Module-6-Project/static/js/453.fd5dc67f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bbdc25b.css",
+    "static/js/main.e6d59618.js"
+  ]
+}
