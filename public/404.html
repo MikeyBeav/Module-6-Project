@@ -1,0 +1,17 @@
+<!-- GitHub Pages SPA redirect for React Router -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=./index.html" />
+    <script>
+      // If JS is enabled, redirect to index.html and preserve the path
+      var l = window.location;
+      window.location.replace(l.origin + l.pathname.replace(/\/[^/]*$/, '/index.html') + l.search + l.hash);
+    </script>
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
